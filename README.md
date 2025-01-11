@@ -1,5 +1,7 @@
 # Credit-Card-Dashboard
 
+https://app.powerbi.com/view?r=eyJrIjoiYWEyMjA4NzQtNzQwNS00ODUzLThhNjUtODlmNDZkZmJmMDE3IiwidCI6IjBiNzdkMGRjLTY3N2MtNDczZi1hN2JkLTE5MWVjNDQ0YzZkNyJ9
+
 This Credit Card Analysis Dashboard provides a comprehensive overview of credit card transactions across different years, card types, and categories, highlighting key metrics like total transaction amounts, average transaction values, spending patterns by gender, and city-wise contributions. The dashboard is designed to facilitate data-driven insights into customer spending behavior and transaction trends, empowering stakeholders to make informed decisions.
 
 Steps Taken to Create the Dashboard
